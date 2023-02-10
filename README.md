@@ -9,7 +9,7 @@ The color coding helps to identify which user created the list item!
 1. Clone the repo
 2. Install python libraries from the requirements.txt
 3. Launch the flask app
-4. Build the Flutter app (best works with "Build for Windows")<br>
+4. Build the Flutter app (best works with "Build for Windows"), but for this you need Flutter sdk installed<br>
         <i>'OR'</i><br>
    Download the app from the releases page<br>
 
