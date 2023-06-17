@@ -4,6 +4,9 @@ The color coding helps to identify which user created the list item!
 
 <b>Tech stack used: Flask(Python), Flutter(UI), MySql (Database)</b>
 
+## Demo
+Refer to the Video Demo in the folder.
+
 ## How to use
 
 1. Clone the repo
@@ -16,4 +19,3 @@ The color coding helps to identify which user created the list item!
 
 ***That's it!!***
 
-**Contributors**: Siddharth Gupta (2021BCS0054), Ganesh Patil (2021BCY0010), Aditya Shinde (2021BCS0180)
